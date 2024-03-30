@@ -15,7 +15,7 @@ int main(){ //a chave delimita um bloco de código (Início do bloco)
 	scanf("%d", &idade);
 
 	//Saída
-	printf("A sua idade e %d", idade);
+	printf("A sua idade e %d\n", idade);
 
 	return 0;
 }//fim do bloco
